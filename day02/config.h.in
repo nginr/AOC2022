@@ -1,0 +1,9 @@
+#pragma once
+
+#include <string>
+
+namespace txtst
+{
+	static std::string inputFile = "@CMAKE_CURRENT_SOURCE_DIR@/input02.txt";
+	static std::string dayName = "@PROJECT_NAME@";
+}
